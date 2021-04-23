@@ -1,9 +1,13 @@
 ---
-title: "About this blog"
-description: |
-  Some additional details about the blog
+title: "Dan Burrell"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+I'm an enthusiastic professional educator and statistical consultant with over ten years of experience contributing to experimental design and data analysis with a diversity of collaborators within the agricultural research sector.  
+
+## Personal
+
+I have a son (5 years) and a daughter (3 years), both of whom are my beating heart. My wife is incredibly supportive and inspirational. I live and breathe statistics and data science, and she somehow manages to accept and love me despite my obsession. But in our downtime (when I'm not overly distracted by all things data science), you'll find us working in our back-yard mini-farm, or sitting around the fire pit enjoying the company of good friends and good barbeque.  
+
+## Contact
+
+Do you want to get in touch? Would you like statistical advice? Do you want to collaborate on a project? Feel free to contact me via [email](mailto:Daniel.Burrell@usq.edu.au). I look forward to hearing from you.

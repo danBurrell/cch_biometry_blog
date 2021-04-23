@@ -2,18 +2,17 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this blog",
-      "description": "Some additional details about the blog",
+      "title": "Dan Burrell",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-04-23T20:34:16+10:00"
+      "contents": "\r\nI’m an enthusiastic professional educator and statistical consultant with over ten years of experience contributing to experimental design and data analysis with a diversity of collaborators within the agricultural research sector.\r\nPersonal\r\nI have a son (5 years) and a daughter (3 years), both of whom are my beating heart. My wife is incredibly supportive and inspirational. I live and breathe statistics and data science, and she somehow manages to accept and love me despite my obsession. But in our downtime (when I’m not overly distracted by all things data science), you’ll find us working in our back-yard mini-farm, or sitting around the fire pit enjoying the company of good friends and good barbeque.\r\nContact\r\nDo you want to get in touch? Would you like statistical advice? Do you want to collaborate on a project? Feel free to contact me via email. I look forward to hearing from you.\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-04-24T00:22:08+10:00"
     },
     {
       "path": "index.html",
       "title": "Biometrie de la phytopathologie",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-04-23T20:34:20+10:00"
+      "last_modified": "2021-04-24T00:22:16+10:00"
     }
   ],
   "collections": ["posts/posts.json"]
