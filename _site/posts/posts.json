@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Biometrie de la phytopathologie",
+    "description": "Welcome to our new blog, Biometrie de la phytopathologie. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Dan Burrell",
+        "url": {}
+      }
+    ],
+    "date": "2021-04-23",
+    "categories": [],
+    "contents": "\r\nThis is my first distill blog post. Here is where I can show you the basics of my mathematical prowess. I can do quadratics \\(y = ax^2 + bx + c\\).\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-04-23T20:41:28+10:00",
+    "input_file": "welcome.utf8.md"
+  }
+]

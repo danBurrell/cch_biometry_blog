@@ -1,0 +1,25 @@
+---
+title: "Welcome to Biometrie de la phytopathologie"
+description: |
+  Welcome to our new blog, Biometrie de la phytopathologie. We hope you enjoy 
+  reading what we have to say!
+author:
+  - name: Dan Burrell 
+    affiliation: USQ Centre for Crop Health
+    affiliation_url: https://www.usq.edu.au/research/institutes-centres/ilse/crop-health
+date: 04-23-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+This is my first distill blog post. 
+Here is where I can show you the basics of my mathematical prowess. I can do quadratics $y = ax^2 + bx + c$. 
+
+
+
+
